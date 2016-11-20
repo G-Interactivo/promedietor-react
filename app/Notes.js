@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 
-export default class Notes extends Component {
-  render() {
-    return (
+var Notes = React.createClass({
+  render: function () {
+    return <div>
       <h1>Notes</h1>
-    )
+    </div>
   }
-}
+});
+
+export default Notes

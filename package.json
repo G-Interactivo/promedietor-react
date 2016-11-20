@@ -1,6 +1,6 @@
 {
   "name": "promedietor-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React skeleton for Promedietor apps",
   "main": "index.js",
   "scripts": {
@@ -16,8 +16,5 @@
     "url": "https://github.com/G-Interactivo/promedietor-react/issues"
   },
   "homepage": "https://github.com/G-Interactivo/promedietor-react#readme",
-  "dependencies": {
-    "react": "^15.4.0",
-    "react-dom": "^15.4.0"
-  }
+  "dependencies": {}
 }

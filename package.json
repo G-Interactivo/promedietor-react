@@ -1,0 +1,23 @@
+{
+  "name": "promedietor-react",
+  "version": "1.0.0",
+  "description": "React skeleton for Promedietor apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-Interactivo/promedietor-react.git"
+  },
+  "author": "Hans Gamarra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G-Interactivo/promedietor-react/issues"
+  },
+  "homepage": "https://github.com/G-Interactivo/promedietor-react#readme",
+  "dependencies": {
+    "react": "^15.4.0",
+    "react-dom": "^15.4.0"
+  }
+}

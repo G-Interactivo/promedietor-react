@@ -1,5 +1,5 @@
 import Notes from './app/Notes'
 
-export default {
+export {
   Notes
 }
